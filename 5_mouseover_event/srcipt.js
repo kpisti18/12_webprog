@@ -19,7 +19,7 @@ demo.addEventListener('mouseout', (event) => {
     if (isImageDisplayed && event.target === demo) {
         const p = document.createElement('p');
         p.textContent = 'Hanyas értékellek?';
-        
+
         demo.replaceChildren(p);
         isImageDisplayed = false;
     }
