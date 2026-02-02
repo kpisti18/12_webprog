@@ -4,6 +4,11 @@ corgi.jpg
 dachshund.jpg
 doberman.jpg
 dog-1.jpg
+
+
+
+
+
 dog-2.jpg
 dog-3.jpg
 dog-4.jpg
